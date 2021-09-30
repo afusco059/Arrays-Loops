@@ -1,0 +1,7 @@
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\fusco_anthony\Desktop\C# and py\Arrays\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
